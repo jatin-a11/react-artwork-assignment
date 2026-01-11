@@ -5,7 +5,7 @@ import { OverlayPanel } from 'primereact/overlaypanel';
 import { Button } from 'primereact/button';
 import { InputNumber } from 'primereact/inputnumber';
 
-// 👉 PrimeReact typing workaround (IMPORTANT)
+
 const PrimeDataTable = DataTable as any;
 
 interface Artwork {
