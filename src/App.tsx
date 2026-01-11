@@ -101,7 +101,6 @@ const App: React.FC = () => {
         rows
       </div>
 
-      {/* ✅ USE PrimeDataTable (NOT DataTable directly) */}
       <PrimeDataTable
         value={artworks}
         lazy
